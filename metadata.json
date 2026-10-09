@@ -1,0 +1,6 @@
+{
+  "name": "Ujala Hotel | Vegetarian Family Restaurant",
+  "description": "Immersive 3D dining website for Ujala Hotel (उजाला होटल), authentic vegetarian family restaurant in Mahimapur, Uttar Pradesh with 3D WebGL scenes, interactive highlights, reviews, and directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
